@@ -256,7 +256,7 @@ Una vez determinados los prompts y con los scripts terminados, se ejecuta el pro
 
 A continuación se muestra el video solicitado en la prueba, que demuestra la ejecución del sistema y los resultados obtenidos.
 
-[![Título del Video](https://github.com/luisfMartinez1303/technical_test_onestic/blob/main/images/min_video.png)](https://www.youtube.com/watch?v=aL-EmKuB078)
+[![Título del Video](https://github.com/luisfMartinez1303/technical_test_onestic/blob/main/images/min_video.png)](https://youtu.be/8I2uSxCjaHo)
 
 ### Comparataiva
 
